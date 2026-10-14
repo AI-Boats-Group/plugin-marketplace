@@ -67,6 +67,23 @@
         ]
       }
     },
+    "boattrader": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "boattrader",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "boattrader",
+            "description": "Search and research boats for sale with the Boat Trader MCP server: find current U.S. listings, compare inventory, chec…"
+          }
+        ]
+      }
+    },
     "browser-use": {
       "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
       "version": "0.1.0",
@@ -1614,6 +1631,23 @@
           {
             "name": "wix-vibe-headless",
             "description": "Client-only, dependency-free REST scaffolds for connecting an already-built front end (a vibe-coded app, an HTML/JSX/Vi…"
+          }
+        ]
+      }
+    },
+    "yachtworld": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "yachtworld",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "yachtworld",
+            "description": "Search and research boats and yachts for sale with the YachtWorld MCP server: find current worldwide listings, compare…"
           }
         ]
       }
